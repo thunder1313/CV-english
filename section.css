@@ -1,0 +1,70 @@
+section {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.headline {
+    font-size: 1.2rem;
+    color: #071330;
+    border-bottom: 1px solid #0C4160;
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+    width: 90%;
+}
+.left-side {
+    display: inline-block;
+    width: 202px;
+    border-right: 2px solid #0C4160;
+}
+
+/* skill section */
+.skills {
+    margin-bottom: 20px;
+}
+.skill {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+    font-size: 1.1rem;
+}
+.skill img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.skill i {
+    margin-right: 10px;
+}
+.right-side {
+    display: inline-block;
+    width: 450px;
+}
+
+/* languages section */
+.languages {
+    margin-bottom: 20px;
+}
+
+
+/* about me section */
+.about-me {
+    margin-bottom: 20px;
+}
+
+/* education section */
+.education img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.date {
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+}
+.uni-wrapper {
+    display: flex;
+    align-items: center;
+}
+.university {
+    font-weight: 600;
+}
