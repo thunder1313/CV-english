@@ -26,11 +26,15 @@ page[size="A4"] {
     margin: 0;
 }
 
+
 .upper {
     text-transform: uppercase;
 }
 .display-block {
     display: block;
+}
+.display-inline {
+    display: inline-block;
 }
 .justify {
     text-align: justify;
@@ -39,6 +43,3 @@ page[size="A4"] {
 .lh {
     line-height: 1.5;
 }
-.display-inline {
-    display: inline-block;
-} 

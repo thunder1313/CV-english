@@ -48,10 +48,13 @@ section {
 
 /* about me section */
 .about-me {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 /* education section */
+.education {
+    margin-bottom: 25px;
+}
 .education img {
     width: 40px;
     height: 40px;
@@ -67,4 +70,20 @@ section {
 }
 .university {
     font-weight: 600;
+}
+
+/* activities section */
+.activity {
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+.description {
+    margin-bottom: 20px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 70px;
+    font-size: 0.5rem;
 }
